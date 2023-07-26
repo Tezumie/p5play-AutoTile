@@ -19,7 +19,7 @@ How to use:
 - make a tilemap with new Tiles(), use "g" or your tiles ID.
  I have a great tool available where you can draw and edit maps easily here:https://tezumie.github.io/p5play-Tile-Map-Editor/
 
--add the animations to your Group like this, after making the new Tiles() ;
+- add the animations to your Group like this, after making the new Tiles() ;
   for (let g of grass) {
     g.spriteSheet = grassTileSet;
     g.frameSize = [8, 8];
