@@ -1,6 +1,6 @@
 # p5Play-AutoTile
-a function you can add to your projects to allow for autotiling at runtime. great for mining games and simpler level designing.
-
+A function you can add to your projects to allow for autotiling at runtime. great for mining games and simpler level designing.
+- try it out here: https://tezumie.github.io/p5play-AutoTile/
 How to use:
 
 ![tileLayout](https://github.com/Tezumie/p5Play-AutoTile/assets/102488626/6b9b9216-2398-4a3a-84d5-afb95dd6aa57)
